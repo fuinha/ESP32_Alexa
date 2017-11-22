@@ -30,7 +30,8 @@ void audio_recorder_init()
 	};
 
 	i2s_pin_config_t pin_config_rx = {
-        .bck_io_num = GPIO_NUM_17,
+//        .bck_io_num = GPIO_NUM_17,
+        .bck_io_num = GPIO_NUM_19,
         .ws_io_num = GPIO_NUM_18,
         .data_out_num = I2S_PIN_NO_CHANGE,
         .data_in_num = GPIO_NUM_5
