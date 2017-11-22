@@ -1,4 +1,4 @@
-#Pin arrangement (I2S microphone) is modified for ePaper plus ESP32-ADB board
+# Pin arrangement (I2S microphone) is modified for ePaper plus ESP32-ADB board
 
 ESP32 Alexa Client
 =======================
