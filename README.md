@@ -1,3 +1,5 @@
+Pin arrangement is modified for ePaper plus ESP32-ADB board
+
 ESP32 Alexa Client
 =======================
 This is a work in progress version of an Alexa client.
